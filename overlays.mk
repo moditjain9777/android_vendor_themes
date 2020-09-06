@@ -102,7 +102,8 @@ PRODUCT_PACKAGES += \
     FontExotwoSourceOverlay \
     FontStoropiaSourceOverlay \
     FontUbuntuSourceOverlay \
-    FontLinotteOverlay
+    FontLinotteOverlay \
+    FontAnaheimOverlay
 
 # Navbar
 PRODUCT_PACKAGES += \
